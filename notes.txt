@@ -1,0 +1,27 @@
+for git :
+
+git config --global user.name "supraja "
+
+git config --global user.email "supraja@gamil.com "
+
+#adding files
+
+git add requriment.txt
+
+#status
+
+git status
+
+# adding all files
+
+git add .
+
+# commit to push code to git
+
+git commit -m " message"
+
+# push
+
+git push origin main
+
+
